@@ -11,6 +11,8 @@
 - Configuration Management (monitoring and process)
 - Incident Response process and procedures
 - Any additional recurring security assessments or security testing (e.g., penetration testing)
+- Can the vendor provide an System architecture design that:
+ • Display ports/protocols and flow of information •	Display the application name •	Specify the site/facility/physical location where the    application is hosted. •	Include all servers that are part of the Accreditation boundary. For most applications that mean production  servers only (but there are exceptions to this). •	Display server function/purpose, operating system, hostname. •	Show all external  interconnections and indicate the connection type, the name of external organization. •	Show all internal VA connections and indicate which  connections are within VA or the cloud boundaries.
  
 Answers to these initial questions will allow VA to generate a comprehensive SaaS security assessment request for the vendor.
  
