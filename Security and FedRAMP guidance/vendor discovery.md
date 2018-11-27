@@ -11,6 +11,7 @@
 - Configuration Management (monitoring and process)
 - Incident Response process and procedures
 - Any additional recurring security assessments or security testing (e.g., penetration testing)
+- Can the vendor provide a detailed "to be" architecture design?
  
 Answers to these initial questions will allow VA to generate a comprehensive SaaS security assessment request for the vendor.
  
